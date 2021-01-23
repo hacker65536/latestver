@@ -1,0 +1,5 @@
+# editors
+.vscode
+*.code-workspace
+*.swp
+*~
